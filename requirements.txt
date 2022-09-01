@@ -1,0 +1,20 @@
+brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1648854164373/work
+certifi==2022.6.15
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1656782830073/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
+conda==4.14.0
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1649385069444/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1657173995269/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+progress==1.6
+pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1649384802055/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1656534056640/work
+ruamel-yaml-conda @ file:///home/conda/feedstock_root/build_artifacts/ruamel_yaml_1653464393916/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
